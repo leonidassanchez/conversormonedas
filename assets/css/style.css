@@ -1,0 +1,16 @@
+.card {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  text-align: center;
+  background-color: azure;
+}
+input {
+  margin-bottom: 30px;
+}
+select {
+  margin-bottom: 30px;
+}
+p {
+  margin-top: 20px;
+}
